@@ -1,0 +1,45 @@
+body {
+  background-color: #666;
+  font-family: 'poppins', 'sans-serif';
+}
+.container {
+  margin: 10vh auto;
+  width: 500px;
+  padding: 2rem;
+  text-align: center;
+  border-radius: 10px;
+  background-color: #1e1c1c;
+}
+.header {
+  margin: 2rem;
+  color: #666;
+}
+input {
+  width: 400px;
+  padding: 0.5rem 2rem;
+  font-size: 3rem;
+  border-radius: 10px;
+  text-align: right;
+  background-color: #272727;
+  color: #666;
+  margin-left: -23px;
+}
+.buttons {
+  margin: auto;
+  width: 450px;
+}
+button {
+  padding: 40px;
+  font-size: 20px;
+  margin: 0.5rem;
+  max-width: 70px;
+  max-height: 70px;
+  text-align: center;
+  justify-content: center;
+  font-weight: 900;
+  border-radius: 10%;
+  background-color: #272727;
+  color: #666;
+  box-shadow: -8px -8px 15px rgba(255, 255, 255, 0.1),
+    12px 12px 15px rgba(0, 0, 0, 0.2);
+}
